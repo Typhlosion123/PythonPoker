@@ -9,5 +9,7 @@ Detect bet size and street to determine optimal play
 
 ## Current Status
 Hand Recogonizer
+
 Suit Recogonizer
+
 Poker Ledger
